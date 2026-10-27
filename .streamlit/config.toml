@@ -1,0 +1,7 @@
+# Local-only: the app uses this laptop's webcam and Arduino COM port.
+[server]
+address = "127.0.0.1"
+headless = false
+
+[browser]
+gatherUsageStats = false

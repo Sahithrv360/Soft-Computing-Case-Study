@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/*.sqlite3*
+data/users/
+data/models/*.onnx
+data/fingerprint_ids.json
+data/face_threshold.json
+data/face_validation_scores.csv
+data/evaluation_*.json
+.streamlit/secrets.toml

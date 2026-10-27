@@ -1,0 +1,1 @@
+"""Unconfigured hardware extension points."""

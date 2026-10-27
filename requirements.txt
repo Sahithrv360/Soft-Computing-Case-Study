@@ -1,0 +1,5 @@
+# Streamlit interface plus camera and serial hardware adapters (Python 3.12).
+numpy>=1.26
+opencv-python>=4.8,<5
+pyserial>=3.5,<4
+streamlit>=1.65,<2
