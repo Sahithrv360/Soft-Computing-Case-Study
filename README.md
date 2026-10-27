@@ -155,5 +155,3 @@ describe this project.
 - `src/enrollment_state.py` read-only local enrollment report. `src/user_registry.py` profiles and active flag.
 - `src/audit_logger.py` SQLite outcome log. `src/face_verification.py` YuNet/SFace. `src/fingerprint_sensor.py` R307 bridge.
 - `app.py` Streamlit UI. `main.py` launcher/CLI. `tests/` hardware-independent unit tests. `src/hardware/` LCD/SD/RFID placeholders.
-#   S o f t - C o m p u t i n g - C a s e - S t u d y  
- 
